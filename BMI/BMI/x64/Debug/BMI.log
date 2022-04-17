@@ -1,0 +1,3 @@
+﻿  BMI.cpp
+E:\cpp\BMI\BMI\BMI.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BMI.vcxproj -> E:\cpp\BMI\x64\Debug\BMI.exe
